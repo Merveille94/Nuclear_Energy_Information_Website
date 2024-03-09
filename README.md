@@ -5,6 +5,7 @@ Sure, here's a suggestion:
 # Nuclear Information Hub
 
 Welcome to the Nuclear Information Hub! This repository serves as a centralized resource for all things nuclear-related. Whether you're a student, researcher, industry professional, or simply curious about nuclear energy and technology, you'll find valuable information and resources here.
+will work on this soon.
 
 
 <img src="/photo_2024-02-24_17-28-35.jpg">
